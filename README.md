@@ -11,7 +11,9 @@
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ibrahimvid)
 
 **My GitHub Stats:**
+
 ![Metrics](https://metrics.lecoq.io/ibrahimvid?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FLos_Angeles)
+
 <!--
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimvid&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
