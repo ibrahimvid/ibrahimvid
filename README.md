@@ -6,10 +6,9 @@
 - 📫 How to reach me: **ibrahimvidinli@gmail.com**
 
 **Connect with me:**
-<p>
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ibrahimvidinli)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ibrahimvid)
-</p>
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ibrahimvidinli)
+ [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ibrahimvid)
 
 **My GitHub Stats:**
 <p>
