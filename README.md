@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Ibrahim</h1>
-<h3 align="center">Aspiring Data Scientist / Machine Learning Engineer</h3>
+<h3 align="center">Data Analytics | Data Science | Machine Learning | AI</h3>
 
 - 🔭 I’m currently working on **Deep Learning and Natural Language Processing**
 - 🌱 I’m currently learning **Tensorflow, Keras, and Pytorch**
