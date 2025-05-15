@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Ibrahim Vidinli</h1>
+<h1 align="center">Hi there 👋 I'm Ibrahim</h1>
 <h3 align="center">Data Analytics | Data Science | Data Engineering | Machine Learning | AI</h3>
 
 ---
