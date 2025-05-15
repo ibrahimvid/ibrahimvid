@@ -1,23 +1,39 @@
-<h1 align="center">Hi there 👋 I'm Ibrahim</h1>
-<h3 align="center">Data Analytics | Data Science | Machine Learning | AI</h3>
+<h1 align="center">Hi there 👋 I'm Ibrahim Vidinli</h1>
+<h3 align="center">Data Analytics | Data Science | Data Engineering | Machine Learning | AI</h3>
 
-- 🔭 I’m currently working on **Deep Learning and Natural Language Processing**
-- 🌱 I’m currently learning **Tensorflow, Keras, and Pytorch**
-- 📫 How to reach me: **ibrahimvidinli@gmail.com**
+---
 
-**Connect with me:**
+🎯 **About Me**
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ibrahimvidinli)
- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ibrahimvid)
+I'm a data-driven professional with a Master’s in IT and over 6 years of experience across data engineering, analytics, and applied data science. I specialize in building scalable ETL pipelines, designing dimensional data models, and delivering analytics solutions that drive business outcomes. I have a passion for simplifying complex data systems into actionable insights and empowering stakeholders through well-architected data platforms and self-serve tools.
 
-**My GitHub Stats:**
+My expertise spans the end-to-end data lifecycle, with a focus on:
 
-<!-- 
-![Metrics](https://metrics.lecoq.io/ibrahimvid?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FLos_Angeles)
--->
+- **Designing scalable data pipelines** using Airflow, dbt, and cloud-native tools
+- **Modeling dimensional data structures** to support analytics and self-serve reporting
+- **Engineering robust data platforms** with Snowflake, BigQuery, and Iceberg on GCP/AWS
+- **Writing production-grade code** in Python and SQL for data transformation, automation, and validation
+- **Applying machine learning** to real-world problems using TensorFlow, PyTorch, and scikit-learn
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimvid&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimvid&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+📍 Based in Bay Area, California | 🌐 Working across cloud & hybrid data ecosystems
 
+---
+
+🧠 **Currently Exploring**
+
+- Building and scaling **LLM-powered data applications**, including RAG pipelines and AI agents
+- Experimenting with **prompt engineering techniques** for enterprise use cases and workflow automation
+- Advancing expertise in **deep learning frameworks** like PyTorch and TensorFlow for NLP and tabular modeling
+
+---
+
+📬 **Contact Me**
+
+- Email: [ibrahimvidinli@gmail.com](mailto:ibrahimvidinli@gmail.com)
+- LinkedIn: [linkedin.com/in/ibrahimvidinli](https://linkedin.com/in/ibrahimvidinli)
+- Twitter: [@ibrahimvid](https://twitter.com/ibrahimvid)
+
+---
+
+🌱 _“Data is the foundation of everything we build.”_  
+Let’s connect, collaborate, and build something insightful.
